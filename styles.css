@@ -26,7 +26,7 @@ h2 {
   background-size: cover;
 }
 
-#slide-2 {
+#slide-2, #slide-6 {
 	background: #969fa4;
 	height: 100px
 }
@@ -43,5 +43,9 @@ h2 {
 
 #slide-5 {
  background-image:url('https://images.unsplash.com/photo-1422157245273-e08b638b4b00?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=fa44b326fa5476c4bfc3572d4d9820bf');
+ background-size: cover;
+}
+#slide-7 {
+ background-image:url('https://images.unsplash.com/reserve/5XnnEP61Rg2ArPQNcQj0_DSCF1787.jpg?crop=entropy&fit=crop&fm=jpg&h=750&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=1375');
  background-size: cover;
 }
